@@ -9,15 +9,25 @@ Objectives:
 Create the directory structure for the deployment
 
 mkdir ~/echolb
+
 mkdir ~/echolb/deployment-manager-examples
+
 mkdir ~/echolb/echo
+
 mkdir ~/echolb/echo/echo
+
 
 The application requires Flask and Gunicorn frameworks.
 
+
 The echo application consists of the following files:
+
 __init__.py
+
 default.cfg
+
 setup.py
+
 LICENSE.txt
+
 MANIFEST.in
